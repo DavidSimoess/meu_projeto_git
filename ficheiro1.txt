@@ -1,1 +1,5 @@
  Ficheiro 1
+
+ Este é o exemplo de um ficheiro.
+
+ Estou a fazer alterações ao ficheiro
